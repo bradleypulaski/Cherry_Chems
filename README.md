@@ -13,4 +13,4 @@ A funny and stupid Discord moderation bot based on a Fallout Equestria character
 - Autoroling
 - Banning Links by domain/user
 - Banning Uploads by user
-- And most importantly can get intoxicated and withdrawal
+- And most importantly can get intoxicated and withdraw
