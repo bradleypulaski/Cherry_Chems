@@ -9,7 +9,7 @@ A funny and stupid Discord moderation bot based on a Fallout Equestria character
 - Log4J
 - Tritonus-dsp
 
-This Discord bot can handle the following moderation roles:
+# Bot Functionality
 - Autoroling
 - Banning Links by domain/user
 - Banning Uploads by user
